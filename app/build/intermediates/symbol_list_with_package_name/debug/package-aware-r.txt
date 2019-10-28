@@ -659,6 +659,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable cat
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable notification_action_background
@@ -673,6 +674,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable seapic
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
@@ -913,6 +915,8 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
+mipmap img
+mipmap imgn
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
